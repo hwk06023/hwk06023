@@ -5,7 +5,7 @@
 <br/>
 <br/>
 
-### Awards and Honors
+### :trophy: Awards :trophy:
 
 #### Personal 
 
@@ -21,17 +21,24 @@
 <br/>
 <br/>
 
+#
+
+<br/>
+<br/>
+
 ### Experience
 
-#### Undergraduate research assistant in [DBLAB](https://sites.google.com/hanyang.ac.kr/dblab/home?authuser=0) [May.2022 ~ ] 
+#### [DBLAB](https://sites.google.com/hanyang.ac.kr/dblab/home?authuser=0) - Undergraduate research assistant [May 2022 ~ ] 
 
-I work in Smart_Camera Project ( Check [Img_Recognition](https://github.com/hwk06023/Img_Recognition), [ROS](https://github.com/hwk06023/To-process.bag), [Train model](https://wandb.ai/hwk06023/train/runs/j9geyxnn/overview?workspace=user-hwk06023) )
+Smart_Camera Project ( Check [Img_Recognition](https://github.com/hwk06023/Img_Recognition), [ROS](https://github.com/hwk06023/To-process.bag), [Train model](https://wandb.ai/hwk06023/train/runs/j9geyxnn/overview?workspace=user-hwk06023) )
 
 <br/>
 <br/>
 
+#
 
-
+<br/>
+<br/>
 
 ### Baekjoon
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwk0602)](https://solved.ac/hwk0602/)
