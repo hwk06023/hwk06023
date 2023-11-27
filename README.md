@@ -17,6 +17,8 @@
 
 2021 - 인공지능 학습용 데이터 통합 해커톤 대회 [야생동물 활동영상 데이터 부문] - 대상 <br/>
 2023 - Seoul Web 3.0 Festival [혁신 아이디어 부문] - 최우수상 <br/>
+2023 - KMIS 추계학술대회 대학(원)생 [생성형 AI 활용 공모전 부문] - 대상 <br/>
+
 
 <br/>
 <br/>
@@ -28,7 +30,7 @@
 
 ### Experience
 
-#### [DBLAB](https://sites.google.com/hanyang.ac.kr/dblab/home?authuser=0) - Undergraduate research assistant [May 2022 ~ ] 
+#### [DBLAB](https://sites.google.com/hanyang.ac.kr/dblab/home?authuser=0) - Undergraduate researcher [May 2022 ~ ] 
 
 Smart_Camera Project ( Check [Img_Recognition](https://github.com/hwk06023/Img_Recognition), [ROS](https://github.com/hwk06023/To-process.bag), [Train model](https://wandb.ai/hwk06023/train/runs/j9geyxnn/overview?workspace=user-hwk06023) )
 
