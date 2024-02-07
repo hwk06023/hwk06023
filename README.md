@@ -79,7 +79,7 @@ Smart_Camera Project ( Check [Img_Recognition](https://github.com/hwk06023/Img_R
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwk06023&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+</div>
+
 
 ![snake gif](https://github.com/hwk06023/hwk06023/blob/output/github-contribution-grid-snake.svg)
-
-</div>
