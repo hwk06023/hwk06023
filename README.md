@@ -46,15 +46,17 @@ Smart_Camera Project ( Check [Img_Recognition](https://github.com/hwk06023/Img_R
 
 <br/>
 
+ Machine Learning
+
  Computer Vision
 
  Continual Learning
 
- Meta Learning
+ AI Security
 
- Recommender Systems
+ Data Analysis
 
- MLOps / DevOps
+ MLOps
 
 <br/>
 <br/>
