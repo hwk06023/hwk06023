@@ -9,15 +9,27 @@
 
 #### Personal 
 
-2019 - 비씨카드 제 1회 금융 빅데이터 활용 아이디어 공모전 - 특별상 <br/>
-2019 - DACON Jeju BigData Competition 학생 부문 - 우수상 <br/>
-2019 - 인공지능 아이디어 경진대회 - 우수상 <br/>
+2019 - 비씨카드 제 1회 금융 빅데이터 활용 아이디어 공모전 - **특별상** <br/>
+( 2019 - BC Card 1st Financial Big Data Utilization Idea Contest - **Special Prize** 🎖 ) <br/>
+
+2019 - DACON Jeju BigData Competition [학생 부문] - **우수상** <br/>
+( 2019 - DACON Jeju BigData Competition [Student Category] - **3rd Prize** 🥉 ) <br/>
+
+2019 - 인공지능 아이디어 경진대회 - **우수상** <br/>
+( 2019 - Artificial Intelligence Idea Contest - **2nd Prize** 🥈 ) <br/>
+
 
 #### Team
 
-2021 - 인공지능 학습용 데이터 통합 해커톤 대회 [야생동물 활동영상 데이터 부문] - 대상 <br/>
-2023 - Seoul Web 3.0 Festival [혁신 아이디어 부문] - 최우수상 <br/>
-2023 - KMIS 추계학술대회 대학(원)생 [생성형 AI 활용 공모전 부문] - 대상 <br/>
+2021 - 인공지능 학습용 데이터 통합 해커톤 대회 [야생동물 활동영상 데이터 부문] - **대상** <br/>
+( Integrated Hackathon for Artificial Intelligence Training Data [Wildlife Activity Category] - **1st Prize** 🥇 ) <br/>
+
+2023 - Seoul Web 3.0 Festival [혁신 아이디어 부문] - **최우수상** <br/>
+( Seoul Web 3.0 Festival [Innovative Idea Category] - **1st Priz** 🥇 ) <br/>
+
+2023 - KMIS 추계학술대회 대학(원)생 [생성형 AI 활용 공모전 부문] - **대상** <br/>
+( KMIS Fall Academic Conference Graduate/Undergraduate Competition [Generative AI Utilization Contest Category] - **1st Prize** 🥇 ) <br/>
+
 
 
 <br/>
