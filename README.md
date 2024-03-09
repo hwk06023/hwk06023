@@ -28,7 +28,7 @@
 ( Seoul Web 3.0 Festival [Innovative Idea Category] - **1st Prize** 🥇 ) <br/>
 
 2023 - KMIS 추계학술대회 대학(원)생 [생성형 AI 활용 공모전 부문] - **대상** <br/>
-( KMIS Fall Academic Conference (Under)Graduate Contest [Generative AI Utilization Category] - **1st Prize** 🥇 ) <br/>
+( KMIS Fall Academic Conference College(Graduate) Student Generative AI Utilization Competition - **1st Prize** 🥇 ) <br/>
 
 
 
