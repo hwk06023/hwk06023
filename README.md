@@ -1,6 +1,6 @@
 <div align="center">
   
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00B9FF,30:0068FF,100:814CF3&text=Hyunwoo%20Kim&fontColor=#FFFFFF&animation=fadeIn&stroke=ADADAD)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00B9FF,30:0068FF,100:814CF3&text=Hyunwoo%20Kim&fontColor=#02040A&animation=fadeIn&stroke=ADADAD)
 
 <br/>
 <br/>
@@ -101,6 +101,16 @@ Smart_Camera Project ( Check [Img_Recognition](https://github.com/hwk06023/Img_R
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hwk06023&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
+<br/>
+
+#
+
+<br/>
+
+### Support to me
+
+<a href="https://www.buymeacoffee.com/hwk06023"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=hwk06023&button_colour=3841a8&font_colour=F5F0FF&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+
 <br/>
 
 #
