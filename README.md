@@ -7,28 +7,25 @@
 
 ### :trophy: Awards :trophy:
 
+<br/>
+
 #### Personal 
 
-2019 - 비씨카드 제 1회 금융 빅데이터 활용 아이디어 공모전 - **특별상** <br/>
-( 2019 - BC Card 1st Financial Big Data Utilization Idea Contest - **Special Prize** 🎖 ) <br/>
+2019 - BC Card 1st Financial Big Data Utilization Idea Contest - **Special Prize** 🎖 <br/>
 
-2019 - DACON Jeju BigData Competition [학생 부문] - **우수상** <br/>
-( 2019 - DACON Jeju BigData Competition [Student Category] - **3rd Prize** 🥉 ) <br/>
+2019 - DACON Jeju BigData Competition [Student Category] - **3rd Prize** 🥉 <br/>
 
-2019 - 인공지능 아이디어 경진대회 - **우수상** <br/>
-( 2019 - Artificial Intelligence Idea Contest - **2nd Prize** 🥈 ) <br/>
+2019 - Artificial Intelligence Idea Contest - **2nd Prize** 🥈 <br/>
 
+<br/>
 
 #### Team
 
-2021 - 인공지능 학습용 데이터 통합 해커톤 대회 [야생동물 활동영상 데이터 부문] - **대상** <br/>
-( Integrated Hackathon for Artificial Intelligence Training Data [Wildlife Activity Category] - **1st Prize** 🥇 ) <br/>
+Integrated Hackathon for Artificial Intelligence Training Data [Wildlife Activity Category] - **1st Prize** 🥇 <br/>
 
-2023 - Seoul Web 3.0 Festival [혁신 아이디어 부문] - **최우수상** <br/>
-( Seoul Web 3.0 Festival [Innovative Idea Category] - **1st Prize** 🥇 ) <br/>
+Seoul Web 3.0 Festival [Innovative Idea Category] - **1st Prize** 🥇 <br/>
 
-2023 - KMIS 추계학술대회 대학(원)생 [생성형 AI 활용 공모전 부문] - **대상** <br/>
-( KMIS Fall Academic Conference (Under)Graduate [Generative AI Utilization Competition] - **1st Prize** 🥇 ) <br/>
+KMIS Fall Academic Conference (Under)Graduate [Generative AI Utilization Competition] - **1st Prize** 🥇 <br/>
 
 
 
@@ -42,6 +39,7 @@
 
 ### Experience
 
+<br/>
 
 #### [Mindlogic](https://mindlogic.ai) - AI / NLP Enigneer [Mar. 2024 ~ ] <br/> <br/>
 
@@ -86,6 +84,9 @@ Smart_Camera Project ( Check [Img_Recognition](https://github.com/hwk06023/Img_R
 <br/>
 
 ### Baekjoon
+
+<br/>
+
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hwk0602)](https://solved.ac/hwk0602/)
 
 <br/>
@@ -93,7 +94,9 @@ Smart_Camera Project ( Check [Img_Recognition](https://github.com/hwk06023/Img_R
 
 ### Skill
 
-<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/></a> <br/>
+<br/>
+
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/></a> <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/></a> <img src="https://img.shields.io/badge/ROS-22314E?style=flat-square&logo=ros&logoColor=white"/></a> <br/>
 <img src="https://img.shields.io/badge/Pytorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/></a> <img src="https://img.shields.io/badge/Tensorflow-white?style=flat-square&logo=Tensorflow&logoColor=EE4C2C"/></a> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white"/></a> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
 
 <br/>
@@ -109,7 +112,9 @@ Smart_Camera Project ( Check [Img_Recognition](https://github.com/hwk06023/Img_R
 
 ### Support to me
 
-<a href="https://www.buymeacoffee.com/hwk06023"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=☕&slug=hwk06023&button_colour=3841a8&font_colour=F5F0FF&font_family=Cookie&outline_colour=ffffff&coffee_colour=FFDD00" /></a>
+<br/>
+
+<a href="https://www.buymeacoffee.com/hwk06023" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 <br/>
 
