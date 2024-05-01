@@ -21,11 +21,13 @@
 
 #### Team
 
-Integrated Hackathon for Artificial Intelligence Training Data [Wildlife Activity Category] - **1st Prize** 🥇 <br/>
+2021 - Integrated Hackathon for AI Training Data [Wildlife Activity Category] - **1st Prize** 🥇 <br/>
 
-Seoul Web 3.0 Festival [Innovative Idea Category] - **1st Prize** 🥇 <br/>
+2022 - Intel global impact festival - **TOP 3 In Korea** :kr:  :medal_sports: <br/>
 
-KMIS Fall Academic Conference (Under)Graduate [Generative AI Utilization Competition] - **1st Prize** 🥇 <br/>
+2023 - Seoul Web 3.0 Festival [Innovative Idea Category] - **1st Prize** 🥇 <br/>
+
+2023 - KMIS Fall Academic Conference (Under)Graduate [Generative AI Competition] - **1st Prize** 🥇 <br/>
 
 
 
@@ -59,21 +61,23 @@ Smart_Camera Project ( Check [Img_Recognition](https://github.com/hwk06023/Img_R
 
 <br/>
 
- Machine Learning
+Machine Learning
 
- Natural Language Process
+Natural Language Process
 
- Prompt / Fine-Tuning (LLM / Generative model ..)
+Prompt / Fine Tuning (LLM / Generative model ..)
 
- Computer Vision
+Computer Vision
 
- Continual Learning
+Continual / Lifelong Learning
 
- AI Security
+Neural Network Compression
 
- Data Analysis
+AI Security
 
- MLOps
+Data Analysis
+
+MLOps
 
 <br/>
 <br/>
