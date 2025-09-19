@@ -29,7 +29,7 @@
 
 2023 - KMIS Fall Academic Conference (Under)Graduate [Generative AI Competition] - **1st Prize** 🥇 <br/>
 
-2025 - NYPC 10th Anniv. Collegiate League `<CODE BATTLE/>` - **Special Prize** 🎖 <br/>
+2025 - NYPC 10th Anniv. Collegiate League \<CODE BATTLE/\> - **Special Prize** 🎖 <br/>
 
 
 
