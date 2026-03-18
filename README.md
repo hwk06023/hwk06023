@@ -75,7 +75,9 @@ Continual / Lifelong Learning
 
 Neural Network Compression
 
-AI Security
+TTS / ASR / Codec
+
+Speech Language Model
 
 Data Analysis
 
