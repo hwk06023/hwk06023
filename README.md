@@ -67,11 +67,13 @@ Machine Learning
 
 Natural Language Process
 
-Prompt / Fine Tuning (LLM / Generative model ..)
+Model Training / Fine Tuning
 
 Computer Vision
 
 Continual / Lifelong Learning
+
+Ontology / RAG
 
 Neural Network Compression
 
@@ -79,9 +81,9 @@ TTS / ASR / Codec
 
 Speech Language Model
 
-Data Analysis
+Agentic Coding
 
-MLOps
+LLM Serving / Inference Optimization
 
 <br/>
 <br/>
