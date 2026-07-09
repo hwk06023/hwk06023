@@ -64,26 +64,21 @@ Smart_Camera Project ( Check [Img_Recognition](https://github.com/hwk06023/Img_R
 <br/>
 
 Machine Learning
-
-Natural Language Process
-
-Model Training / Fine Tuning
-
 Computer Vision
+Natural Language Processing
 
+Model Training / Fine-tuning
 Continual / Lifelong Learning
+Retrieval-Augmented Generation (RAG) / Knowledge Ontology
 
-Ontology / RAG
+ASR / TTS / Neural Audio Codec
+Speech Language Model (SpeechLM)
 
-Neural Network Compression
-
-TTS / ASR / Codec
-
-Speech Language Model
-
-Agentic Coding
-
+Neural Network Compression (Quantization / Pruning / Distillation)
 LLM Serving / Inference Optimization
+
+Persona & Character AI
+AI Agent Harness Engineering
 
 <br/>
 <br/>
