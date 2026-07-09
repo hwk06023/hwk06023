@@ -45,7 +45,7 @@
 
 <br/>
 
-#### [Mindlogic](https://mindlogic.ai) - AI / NLP Enigneer [Mar. 2024 ~ ] <br/> <br/>
+#### [Mindlogic](https://mindlogic.ai) - AI / NLP Enigneer [Mar. 2024 ~ Jun. 2026] <br/> <br/>
 
 #### [DBLAB](https://sites.google.com/hanyang.ac.kr/dblab/home?authuser=0) - Undergraduate researcher [May. 2022 ~ Feb. 2024] 
 
