@@ -63,21 +63,21 @@ Smart_Camera Project ( Check [Img_Recognition](https://github.com/hwk06023/Img_R
 
 <br/>
 
-Machine Learning
-Computer Vision
-Natural Language Processing
+Machine Learning <br/>
+Computer Vision <br/>
+Natural Language Processing <br/>
 
-Model Training / Fine-tuning
-Continual / Lifelong Learning
-Retrieval-Augmented Generation (RAG) / Knowledge Ontology
+Model Training / Fine-tuning <br/>
+Continual / Lifelong Learning <br/>
+Retrieval-Augmented Generation (RAG) / Knowledge Ontology <br/>
 
-ASR / TTS / Neural Audio Codec
-Speech Language Model (SpeechLM)
+ASR / TTS / Neural Audio Codec <br/>
+Speech Language Model (SpeechLM) <br/>
 
-Neural Network Compression (Quantization / Pruning / Distillation)
-LLM Serving / Inference Optimization
+Neural Network Compression (Quantization / Pruning / Distillation) <br/>
+LLM Serving / Inference Optimization <br/>
 
-Persona & Character AI
+Persona & Character AI <br/>
 AI Agent Harness Engineering
 
 <br/>
