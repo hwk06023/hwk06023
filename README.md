@@ -45,7 +45,7 @@
 
 <br/>
 
-#### Danggok High School - AI Coordinator [Aug. 2026 ~ Dec. 2026] <br/> <br/>
+#### [Danggok High School](https://danggok.sen.hs.kr/) - AI Coordinator [Aug. 2026 ~ Dec. 2026] <br/> <br/>
 
 #### [Mindlogic](https://mindlogic.ai) - AI / NLP Enigneer [Mar. 2024 ~ Jun. 2026] <br/> <br/>
 
